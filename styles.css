@@ -1,0 +1,21 @@
+/* Media Queries */
+@media(max-width: 992px) {
+    .navbar-expand-lg {
+    background-color: #dbc1e0;
+    }
+    .navbar {
+      max-height: none;
+      padding: inherit;
+    }
+    .navbar div {
+      margin: inherit;
+      background-color: white;
+    }
+    .navbar-brand {
+      padding: 10px;
+    }
+  }
+
+.jumbotron{
+    background-color:rgb(115, 106, 158);
+}
